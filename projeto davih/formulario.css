@@ -1,0 +1,39 @@
+body {
+    background: url(fundo3.jpg);
+    color: white;
+    font-family: 'Pirata One';
+    border: solid;
+}
+
+
+.conteiner {
+    font-size: 20px;
+    padding: 0px 70px;
+    text-align: center;
+color: rgb(173, 34, 27);
+}
+
+nav a:hover {
+    color: rgb(173, 34, 27);
+
+}
+
+ul {
+
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 50px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+main {
+
+    font-size: 35px
+}

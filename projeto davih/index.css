@@ -1,0 +1,65 @@
+body {
+    background: url(fundo3.jpg);
+    color: white;
+    font-family: 'Pirata One', cursive;
+    margin: 100px 200px 0 200px 100px;
+    border: solid;
+
+}
+
+ul {
+
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 50px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+img {
+
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 5px solid rgb(173, 34, 27)
+}
+
+.center {
+
+    text-align: center
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    color: rgb(173, 34, 27)
+}
+
+h2 {
+    color: rgb(173, 34, 27);
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+    color: rgb(173, 34, 27);
+}
+
+li {
+    font-size: 30px;
+}
+
+.conteiner {
+    font-size: 20px;
+    padding: 0px 70px
+}
+
+nav a:hover {
+    color: rgb(173, 34, 27);
+}
